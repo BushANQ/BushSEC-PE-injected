@@ -1,5 +1,5 @@
 # BushSEC PE Injector
-一款基于 Python 的 PE 文件注入工具，用于将 Shellcode 注入 Windows 可执行文件。
+一款基于 Python 的 PE 文件注入简易工具，用于将 Shellcode 注入 Windows 可执行文件。
 
 ## 概述
 
