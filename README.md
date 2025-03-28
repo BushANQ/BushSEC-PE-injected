@@ -1,4 +1,5 @@
 # BushSEC PE Injector
+# 本项目未来将整合至新项目：https://github.com/BushANQ/BushSEC_Bed_Tools
 一款基于 Python 的 PE 文件注入简易工具，用于将 Shellcode 注入 Windows 可执行文件。
 
 ## 概述
